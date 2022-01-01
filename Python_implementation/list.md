@@ -2,6 +2,8 @@
 
 [Documentation](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 
+[Runtime](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
+
 Implementation: dynamic array
 
 ### Methods
