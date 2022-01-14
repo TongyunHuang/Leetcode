@@ -5,6 +5,7 @@ hard
 227
 314
 523*
+4.
 
 need improvment
 426: very slow
